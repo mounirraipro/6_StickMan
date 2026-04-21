@@ -1,0 +1,314 @@
+{
+  "name": "Stickman",
+  "domain": "stickman.fr",
+  "slug": "stickman",
+  "genre": "Action",
+  "iframeUrl": "/game/index.html",
+
+  "seo": {
+    "title": "Stickman – Free Online Action Game | No Download",
+    "description": "Play Stickman free online — control a stick-figure fighter through enemy waves. Fast reflexes, real combat. No download, no account. Open and play now.",
+    "keywords": ["Stickman", "stickman online", "free action game browser", "stickman fighter game", "online action game no download", "stick figure fighting game", "stickman combat free"]
+  },
+
+  "homepage": {
+    "heroHeadline": "Fight as a Stickman. Free in Your Browser.",
+    "heroSubtitle": "Control a lightning-fast stick figure through waves of enemies. Real combat mechanics, instant play — no download, no account required.",
+    "lede": "Stickman is a free browser action game where you battle waves of enemies as a stick-figure fighter. Fast, fluid combat — no install needed.",
+    "stats": [
+      { "value": "30+", "label": "Combat Levels" },
+      { "value": "3",   "label": "Attack Combos" },
+      { "value": "0",   "label": "Downloads Needed" },
+      { "value": "100%","label": "Free Forever" }
+    ],
+    "about": {
+      "kicker": "What is Stickman?",
+      "headline": "The stick-figure action game built for instant browser play.",
+      "paragraph1": "Stickman drops you into fast-paced combat as a nimble stick figure facing relentless enemy waves. The controls are stripped to their essentials — move, dodge, attack — so the focus stays entirely on reading enemy patterns and reacting before they overwhelm you. Each stage introduces tougher opponents with new attack behaviours, keeping the challenge sharp from the first punch to the final boss.",
+      "paragraph2": "The game runs instantly in any modern browser on desktop or mobile. No app download, no account, no waiting. Open the page and you are in the fight within seconds. Progression is built into the level structure: early stages teach the core combo system, while later rounds demand precise timing and strategic use of power-ups to survive."
+    },
+    "howToPlay": {
+      "headline": "Learn the controls. Survive the waves.",
+      "subheading": "Use attack combos and well-timed dodges to fight through increasingly dangerous enemy encounters."
+    },
+    "steps": [
+      { "icon": "folder",       "title": "Open the Game",        "desc": "Go to the Play page — Stickman loads instantly in your browser. No installation, no account creation, no waiting." },
+      { "icon": "eye",          "title": "Read the Enemy",       "desc": "Watch how enemies move and attack before committing. Each enemy type has a tell — spotting it early is the difference between a clean combo and taking damage." },
+      { "icon": "refresh",      "title": "Master the Combos",    "desc": "Chain basic attacks into combo sequences for higher damage output. The combo system rewards timing: hit the follow-up just as the first strike lands." },
+      { "icon": "puzzle",       "title": "Use Power-Ups Wisely", "desc": "Power-ups spawn mid-stage but disappear quickly. Save high-value pickups for moments when multiple enemies converge rather than using them the instant they appear." },
+      { "icon": "check-circle", "title": "Clear the Wave",       "desc": "Defeat every enemy in the wave to advance. Boss encounters appear at set milestones — they hit harder and require pattern recognition to beat without taking critical damage." }
+    ],
+    "categories": [
+      { "name": "Recruit",    "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
+      { "name": "Soldier",    "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
+      { "name": "Veteran",    "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
+      { "name": "Elite",      "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
+      { "name": "Legendary",  "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+    ],
+    "features": [
+      { "icon": "bolt",   "title": "Instant Combat",            "desc": "No loading screens between fights. Click Play and you are in the action within seconds — straight from your browser." },
+      { "icon": "target", "title": "Wave-Based Progression",    "desc": "30+ combat levels with escalating enemy types and boss encounters at key milestones. Each wave adds a new mechanic or enemy variant to keep the challenge fresh." },
+      { "icon": "device", "title": "Works on Any Device",       "desc": "Fully playable on desktop with keyboard controls and on mobile with tap inputs. Responsive layout adjusts to any screen size automatically." },
+      { "icon": "image",  "title": "Fluid Stick Animation",     "desc": "Clean, high-contrast stick-figure animation makes every combo and hit reaction readable at a glance — even during the most intense multi-enemy encounters." },
+      { "icon": "shield", "title": "Safe for All Ages",         "desc": "Stickman contains no graphic violence or adult content. There are no ads targeting children, no in-app purchases, and no account data collection." },
+      { "icon": "music",  "title": "Dynamic Combat Audio",      "desc": "Punchy sound effects for each attack type and a driving background track that intensifies during boss phases. Audio enhances reaction timing without becoming distracting." }
+    ],
+    "faq": [
+      { "q": "What is Stickman?",             "a": "Stickman is a free browser-based action game where you control a stick figure fighting through waves of enemies using combos, dodges, and power-ups. No download or account is required." },
+      { "q": "Is Stickman free?",             "a": "Yes, completely free. Every level is accessible from the start with no paywalls, premium tiers, or in-app purchases of any kind." },
+      { "q": "Does Stickman work on mobile?", "a": "Yes. The game is fully responsive and supports both tap controls on touchscreens and keyboard controls on desktop. It runs in any modern mobile browser without installation." },
+      { "q": "How many levels are there?",    "a": "There are over 30 combat levels, progressing from basic enemy encounters at Recruit difficulty to intense multi-boss stages at Legendary tier." },
+      { "q": "Is Stickman safe for kids?",    "a": "Yes. The game uses stylised stick-figure combat with no graphic violence or inappropriate content. No personal data is collected and no targeted advertising is shown." },
+      { "q": "Do I need an account?",         "a": "No account is needed. Open the Play page and start fighting immediately — no registration, email, or login of any kind." }
+    ],
+    "cta": {
+      "headline": "Ready to fight?",
+      "subtext": "Open Stickman now — no download, no sign-up, just pure action."
+    }
+  },
+
+  "playPage": {
+    "howItWorksSubtitle": "Chain attack combos and time your dodges to defeat every enemy wave.",
+    "steps": [
+      { "title": "Choose Your Difficulty",  "desc": "Select a starting level from Recruit (beginner-friendly) to Legendary (max challenge). Each tier introduces faster enemies and new attack patterns that require sharper reaction times." },
+      { "title": "Fight the Wave",           "desc": "Use attack inputs to launch combos against incoming enemies. Each combo chain builds a score multiplier — the longer the chain, the higher your damage output and end-level score." },
+      { "title": "Survive the Boss",         "desc": "Boss encounters appear at key stage milestones. They are tougher, faster, and require pattern recognition. Study their attack cycle for two or three hits before committing to an aggressive combo." }
+    ]
+  },
+
+  "faqPage": {
+    "items": [
+      { "q": "Is Stickman really free?",         "a": "Yes, entirely free. There are no subscription fees, premium level packs, or purchases of any kind. Every stage and game mode is available from the moment you open the page." },
+      { "q": "What devices can I play on?",       "a": "Stickman runs in any modern browser — Chrome, Safari, Firefox, Edge — on desktop, tablet, and mobile. No app download required. Touch and keyboard inputs are both supported." },
+      { "q": "How does the game work?",           "a": "You control a stick figure using attack and movement inputs. Chain hits into combos, dodge incoming attacks, collect power-ups, and defeat all enemies in each wave to progress to the next level." },
+      { "q": "How many levels are there?",        "a": "There are over 30 levels organised into five difficulty tiers: Recruit, Soldier, Veteran, Elite, and Legendary. Boss encounters mark the end of each tier." },
+      { "q": "Can I play offline?",               "a": "Once the game has loaded in your browser, it continues to run if your connection drops. An initial internet connection is required to load the page for the first time." },
+      { "q": "Is my progress saved?",             "a": "Progress is stored in your browser's local storage. As long as you use the same browser and device, completed levels will remain unlocked between sessions." },
+      { "q": "Is Stickman safe for children?",    "a": "Yes. The game uses stylised stick-figure combat without graphic content. There are no chat features, no ads targeting children, and no collection of personal information." },
+      { "q": "Do I need to create an account?",   "a": "No. There is no registration or login of any kind. Open stickman.fr and start playing straight away." }
+    ]
+  },
+
+  "howToPlayPage": {
+    "intro": "Stickman is built around fast, readable combat: attack, dodge, combo. Understanding how the chain system works — and when to use power-ups — is the difference between breezing through levels and being overwhelmed by the later enemy waves.",
+    "steps": [
+      { "title": "Learn the Attack Chain",  "desc": "Each attack input triggers the first hit in a combo chain. Land the follow-up input within the timing window to extend the chain. A three-hit combo deals roughly double the damage of three individual attacks and fills the score multiplier faster." },
+      { "title": "Dodge Before You Strike", "desc": "Every enemy has a pre-attack animation — a brief wind-up before their hit lands. Dodging during this window triggers an invincibility frame that lets you counter immediately. Reacting to wind-ups rather than the hit itself is the core skill of the game." },
+      { "title": "Pick Up Power-Ups Fast",   "desc": "Power-ups appear mid-stage for a limited time. Speed boosts, damage multipliers, and health restores each have different strategic value. Prioritise health restores only when your health is critically low; in all other situations, the damage multiplier offers the highest return." }
+    ],
+    "mechanic": {
+      "title": "The Combo Chain System",
+      "desc": "Stickman's scoring and damage output are both tied to the combo chain counter. Each consecutive hit within the timing window adds to the chain. Breaking the chain — by missing, getting hit, or waiting too long between inputs — resets the multiplier to zero. High-level play focuses on maintaining long chains across multiple enemies rather than grinding one opponent at a time. This also means the best strategy is to target enemies in sequence by proximity rather than engaging the toughest opponent first."
+    },
+    "difficultyProgression": "Recruit levels introduce single enemy types with slow, predictable attack patterns. Soldier levels add a second enemy type that flanks from the opposite direction, forcing attention splits. Veteran levels introduce shielded enemies that require a specific combo sequence to break through before normal attacks deal damage. Elite levels combine all previous enemy types in the same wave, requiring rapid target switching. Legendary levels feature boss variants of every enemy type alongside standard waves, with reduced power-up spawn rates.",
+    "tips": [
+      { "title": "Target the Flanks First",    "desc": "When multiple enemies approach from different directions, attack the ones on your flanks before focusing on the enemy directly ahead. Flank enemies reach you first if ignored, and a hit from the side interrupts your combo chain. Clearing the flanks buys space and time to deal with the main threat." },
+      { "title": "Break Shields Immediately",  "desc": "Shielded enemies in Veteran difficulty and above absorb all standard attacks until the shield is broken with the correct combo. Do not waste normal attacks on a shielded enemy — they deal zero damage and waste your combo window. Identify shielded enemies as soon as the wave starts and prioritise the break combo." },
+      { "title": "Save the Multiplier Pickup", "desc": "The damage multiplier power-up is the most valuable item on the field. Collecting it during a long combo chain stacks both effects simultaneously, producing enormous burst damage. Try to wait until you have a three-hit chain going before grabbing it, rather than picking it up the moment it appears." },
+      { "title": "Study the Boss Pattern",     "desc": "Every boss follows a fixed three-phase attack cycle. In phase one, they use slow single strikes. In phase two, they introduce a charged attack with a longer wind-up. Phase three activates a multi-hit flurry. Survive the first cycle passively and learn the pattern before committing to aggressive combo play." },
+      { "title": "Replay Earlier Levels",      "desc": "Stickman's score multiplier system rewards replaying completed levels. A perfect run — no damage taken, full combo chains — unlocks a bonus score that counts toward tier progression. Returning to Recruit and Soldier levels with full mastery of the combo system is the fastest route to unlocking Elite and Legendary content." }
+    ]
+  },
+
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Combat tips, combo guides, and action-game science for Stickman players.",
+    "introParagraph": "Whether you are getting demolished on the first Veteran level or want to master the combo chain system before tackling Legendary difficulty, these guides cover the mechanics in detail, share proven strategies for every enemy type, and explain why fast-paced action games like Stickman are genuinely good for your brain.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Stickman: A Complete Beginner's Guide",
+        "excerpt": "New to Stickman? This guide explains the combat system, combo chain mechanics, and how to approach the first ten levels without being overwhelmed.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "🗺️",
+        "sections": [
+          {
+            "heading": "What Is Stickman?",
+            "paragraphs": [
+              "Stickman is a free browser action game where you fight as a minimalist stick figure against waves of increasingly dangerous enemies. The game strips away everything non-essential — complex menus, lengthy tutorials, slow introductions — and puts you straight into combat. The core loop is simple: attack, dodge, survive the wave, advance to the next.",
+              "The depth comes from the combo chain system. Single attacks deal modest damage, but chaining consecutive hits within the timing window multiplies both damage output and score. Learning to maintain long chains across multiple enemies is what separates Recruit-tier play from Legendary performance."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Visit stickman.fr in any browser. The game loads immediately — no app store, no download, no account creation required. On desktop, use the keyboard for movement and attack inputs. On mobile or tablet, tap controls appear automatically and respond to the same timing windows as keyboard inputs.",
+              "The level select screen shows your current tier and unlocked stages. Completed levels display your best score and whether you achieved a no-damage clear. Every level is replayable from the start, and there is no energy system or daily play limit."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "Recruit levels are designed to teach the combat system without pressure. Use the first three levels to focus on one thing only: the combo timing window. Land the first attack, wait for the small visual flash, then input the follow-up. That flash is the window — hit it consistently and the chain builds naturally.",
+              "Do not try to dodge everything on your first runs. Getting hit occasionally is fine at Recruit difficulty. Instead, concentrate on attack timing and reading the single enemy type present. Once the chain rhythm is instinctive, dodging becomes the natural next focus. Try to progress to Soldier difficulty before your first session ends — it introduces the flanking enemy that forces your attention to split for the first time."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Go to the Play page, select Recruit Level 1, and start building your combo sense. The early levels are generous with timing windows, so use them to develop instincts you can rely on when the windows tighten at higher difficulty. Restarts are instant and free — each failed run is information about which enemy pattern caught you out."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips & Tricks for Stickman",
+        "excerpt": "These combat strategies will help you maintain combo chains, read enemy patterns, and clear Veteran and Elite levels without burning through restarts.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "💡",
+        "sections": [
+          {
+            "heading": "Master the Fundamentals",
+            "paragraphs": [
+              "Before attempting Veteran difficulty, make sure the two foundational mechanics are automatic: the combo timing window and the dodge invincibility frame. Both require muscle memory rather than conscious thought at higher levels. Spend the first few sessions on Recruit and Soldier stages specifically to burn these into instinct, even after you could clear them easily on auto-pilot.",
+              "The other key fundamental is enemy prioritisation. On waves with multiple opponents, always attack flanking enemies first — they reach you faster and interrupt your chain if ignored. Only after the flanks are clear should you focus resources on the central or heaviest enemy in the wave."
+            ]
+          },
+          {
+            "heading": "Think Before You Act",
+            "paragraphs": [
+              "The most common mistake in Stickman is reacting to hits rather than wind-ups. Every enemy telegraphs their attack with a brief animation before the hit lands. Reacting to the hit is already too late — it will connect before your dodge input registers. Train yourself to watch for the wind-up and trigger the dodge the moment you see it.",
+              "On boss encounters, resist the urge to attack constantly. Spend the first complete attack cycle in a defensive posture, observing the pattern. Boss phases follow a fixed sequence every time. One full observation round costs you some score but saves you from multiple unnecessary deaths caused by unfamiliar phase transitions."
+            ]
+          },
+          {
+            "heading": "Recognise Patterns Early",
+            "paragraphs": [
+              "After clearing the Soldier tier, you will start recognising enemy groupings by their composition. A wave of two flankers with one shielded central enemy always requires the same opening: clear left flank, clear right flank, break the shield, then combo. Recognising this formation on sight rather than improvising each time saves seconds of reaction time per encounter.",
+              "Elite waves introduce mixed groups of three or four enemy types simultaneously. The fastest route through these is to identify the single shielded enemy immediately and plan the wave around breaking that shield first. Shielded enemies do not attack while their shield is active, so they are a controllable element in an otherwise unpredictable wave."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "At Legendary difficulty, power-up timing becomes the primary differentiator between clears and failures. The damage multiplier and the speed boost must be combined: grab the speed boost first to close the distance to clustered enemies, then immediately collect the multiplier and execute the combo. The speed boost extends the window in which the multiplier is active because you reach enemies faster.",
+              "For perfect no-damage runs — which unlock the tier bonus score — prioritise the health restore only if you have already taken damage. On a clean run, every health restore you collect represents a wasted power-up slot that could have been a damage multiplier. Discipline around power-up selection is the defining skill of Legendary-tier play."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Stickman",
+        "excerpt": "Fast-paced action games do more than entertain. Here is the science behind what combat games like Stickman train in the brain.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "🧠",
+        "sections": [
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Action games that require fast responses to visual stimuli have been studied extensively in cognitive science. Research from the University of Rochester and subsequent studies consistently finds that players of fast-paced action games show improved reaction times, better selective attention under pressure, and superior ability to track multiple moving objects simultaneously compared to non-players.",
+              "Stickman's wave-based structure activates the brain's threat-detection and response systems in a controlled, low-stakes environment. Regular engagement with games that demand rapid pattern recognition and motor responses trains neural pathways associated with processing speed — benefits that extend into everyday tasks requiring quick decision-making."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Despite its fast pace, Stickman contains a significant problem-solving layer. Each wave is a micro-optimisation challenge: which enemy to target first, when to use which power-up, whether to play defensively or aggressively. Players who improve rapidly are those who consciously evaluate these decisions rather than relying purely on reflexes.",
+              "The combo chain system specifically trains the ability to maintain a goal (extending the chain) while simultaneously managing multiple threats (enemy positions and attack timing). This dual-task management under time pressure maps directly to executive function skills used in academic and professional contexts."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "Counterintuitively, many players report that fast-paced action games reduce stress rather than increase it. The mechanism is attentional displacement: the intense focus required to track enemy positions and maintain combo timing leaves no cognitive bandwidth for ruminative thinking. Players cannot simultaneously fight a boss pattern and replay a stressful conversation.",
+              "The finite session structure of Stickman's levels also contributes to stress relief. Each level has a clear endpoint — clearing the wave — which produces a reliable completion reward. This contrasts with open-ended stress or anxiety, which has no natural endpoint. Short, completable challenges with clear feedback are among the most consistently effective break-time activities for mental reset."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "Action games are often categorised as passive entertainment, but Stickman demands continuous active engagement. Every second of play requires attention, decision-making, and motor input. There is no idle watching — the game ends if you stop responding. This sustained active engagement produces different cognitive outcomes from passive video consumption.",
+              "For parents concerned about screen time quality, the distinction between active and passive engagement is the most relevant factor. Stickman's combat-response loop keeps players cognitively active throughout each session. The game contains no social comparison mechanics, no notification systems, and no content designed to create compulsive return behaviour."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Stickman",
+        "excerpt": "Stuck at Veteran difficulty? These focused practice habits will sharpen your combo timing and pattern recognition to push through to Elite and Legendary.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "📈",
+        "sections": [
+          {
+            "heading": "Focus on Consistency",
+            "paragraphs": [
+              "Improvement at Stickman comes from deliberate practice on specific mechanics, not from grinding the same level until you get lucky. If you are stuck at Veteran difficulty, the block is almost certainly one of two things: inconsistent combo timing or missed dodge windows. Isolate which one is causing your deaths and practise that mechanic specifically on Soldier-tier levels where the stakes are lower.",
+              "Short, focused sessions beat long exhausted ones. Twenty minutes of deliberate combo practice with conscious attention to the timing window will produce more improvement than two hours of frustrated retries on the level that is blocking you. Fatigue degrades timing precision significantly — stop the session before your reaction times noticeably slow."
+            ]
+          },
+          {
+            "heading": "Analyse Your Mistakes",
+            "paragraphs": [
+              "When you die, pause before immediately restarting. Identify exactly which enemy caused the death and what you were doing at that moment. Was the death from a direct hit during an attack animation (meaning you were not respecting the dodge window)? Was it a flanking enemy you ignored while focusing on a combo chain? Naming the specific failure transforms every death from frustration into actionable information.",
+              "Players who improve fastest share one habit: they treat each death as a data point about their own behaviour rather than as evidence of unfair difficulty. Stickman's enemy patterns are fixed and learnable. If the same death keeps happening in the same situation, the situation is not random — there is a consistent error in your response to it."
+            ]
+          },
+          {
+            "heading": "Build a Strategy",
+            "paragraphs": [
+              "Before entering a stage above Soldier difficulty, spend five seconds reading the wave composition shown in the pre-stage screen. Identify the shielded enemy, the flankers, and any boss variant present. Decide your targeting order before the first enemy appears. Players who enter Elite waves with a pre-planned order clear them significantly faster than those who decide on the fly.",
+              "The most reliable framework for Elite and above: left flank first, right flank second, break any shield, then concentrate on the remaining enemies in order of attack speed. Fast attackers should always die before slow heavy-hitters, because fast enemies interrupt chains more frequently and deny your damage multiplier window."
+            ]
+          },
+          {
+            "heading": "Practice Regularly",
+            "paragraphs": [
+              "Return to completed difficulty tiers after two or three days away. Motor timing skills consolidate during sleep, and a combo window that felt too tight on Tuesday often feels natural on Thursday after rest. This is not imagination — sleep consolidates procedural memory in a way that additional practice on the same day does not replicate.",
+              "Once you have cleared all available levels, challenge yourself to perfect runs: zero damage taken, maximum combo chains, and optimal power-up usage on every stage. This constraint forces you to find the optimal route through each wave rather than a merely functional one, and it pushes your timing precision into a range that makes the highest difficulty tiers feel approachable."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Stickman for Kids: A Parent's Complete Guide",
+        "excerpt": "Is Stickman right for your child? Here is what parents need to know about content, safety, educational value, and healthy screen habits.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "👨‍👩‍👧",
+        "sections": [
+          {
+            "heading": "Is Stickman Safe for Children?",
+            "paragraphs": [
+              "Yes. Stickman uses stylised stick-figure characters with no graphic violence, blood, or realistic injury depiction. The combat is cartoonish in nature — enemies are abstract figures that disappear when defeated. The game contains no social features such as chat, leaderboards, or player profiles that would expose children to other users online.",
+              "There are no advertisements targeting children and no in-app purchases of any kind. The game runs entirely in the browser and requires no account creation, which means no personal data is collected from your child. Parents can hand over a device with confidence that the experience is clean and contained."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Stickman develops reaction time, hand-eye coordination, and the ability to make fast decisions under pressure. These are genuine cognitive skills with real-world applications. Research on action game players consistently finds improvements in selective attention — the ability to focus on relevant information while filtering out distractions — compared to non-players.",
+              "Beyond the physical reflexes, the game teaches pattern recognition and strategic thinking. Children who progress through the difficulty tiers are learning to read enemy behaviours, plan responses before threats materialise, and adapt their strategy when a previous approach stops working. These metacognitive skills — knowing when to change tactics — transfer directly to academic problem-solving."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Stickman's level-based structure makes it natural to set clear session boundaries: agree on a fixed number of levels per session rather than an open-ended time limit. Each level has a definite endpoint, so stopping after a completed wave feels like a natural pause rather than an interruption. This structure helps children develop the habit of stopping at a natural breakpoint rather than mid-activity.",
+              "Because the game does not use notifications, energy timers, or daily reward systems, it does not create the compulsive return behaviour common in mobile games designed around engagement loops. Children can walk away after a session without feeling the artificial urgency that notification-heavy games cultivate. This makes it significantly easier to enforce healthy session limits."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "Stickman does not collect personal information from any user, including children under 13. There is no registration, no email address required, and no tracking of individual players beyond anonymous session data stored locally in the browser. No information is transmitted to any server or third party.",
+              "The game is compliant with children's online privacy principles by design — there is simply no personal data to collect consent for. Parents do not need to complete any consent process or create any account on behalf of their child. The entire experience is self-contained within the browser session."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
