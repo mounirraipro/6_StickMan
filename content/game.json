@@ -4,22 +4,40 @@
   "slug": "stickman",
   "genre": "Action",
   "iframeUrl": "/game/index.html",
-
   "seo": {
     "title": "Stickman – Free Online Action Game | No Download",
     "description": "Play Stickman free online — control a stick-figure fighter through enemy waves. Fast reflexes, real combat. No download, no account. Open and play now.",
-    "keywords": ["Stickman", "stickman online", "free action game browser", "stickman fighter game", "online action game no download", "stick figure fighting game", "stickman combat free"]
+    "keywords": [
+      "Stickman",
+      "stickman online",
+      "free action game browser",
+      "stickman fighter game",
+      "online action game no download",
+      "stick figure fighting game",
+      "stickman combat free"
+    ]
   },
-
   "homepage": {
     "heroHeadline": "Fight as a Stickman. Free in Your Browser.",
     "heroSubtitle": "Control a lightning-fast stick figure through waves of enemies. Real combat mechanics, instant play — no download, no account required.",
     "lede": "Stickman is a free browser action game where you battle waves of enemies as a stick-figure fighter. Fast, fluid combat — no install needed.",
     "stats": [
-      { "value": "30+", "label": "Combat Levels" },
-      { "value": "3",   "label": "Attack Combos" },
-      { "value": "0",   "label": "Downloads Needed" },
-      { "value": "100%","label": "Free Forever" }
+      {
+        "value": "30+",
+        "label": "Combat Levels"
+      },
+      {
+        "value": "3",
+        "label": "Attack Combos"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
     ],
     "about": {
       "kicker": "What is Stickman?",
@@ -32,69 +50,200 @@
       "subheading": "Use attack combos and well-timed dodges to fight through increasingly dangerous enemy encounters."
     },
     "steps": [
-      { "icon": "folder",       "title": "Open the Game",        "desc": "Go to the Play page — Stickman loads instantly in your browser. No installation, no account creation, no waiting." },
-      { "icon": "eye",          "title": "Read the Enemy",       "desc": "Watch how enemies move and attack before committing. Each enemy type has a tell — spotting it early is the difference between a clean combo and taking damage." },
-      { "icon": "refresh",      "title": "Master the Combos",    "desc": "Chain basic attacks into combo sequences for higher damage output. The combo system rewards timing: hit the follow-up just as the first strike lands." },
-      { "icon": "puzzle",       "title": "Use Power-Ups Wisely", "desc": "Power-ups spawn mid-stage but disappear quickly. Save high-value pickups for moments when multiple enemies converge rather than using them the instant they appear." },
-      { "icon": "check-circle", "title": "Clear the Wave",       "desc": "Defeat every enemy in the wave to advance. Boss encounters appear at set milestones — they hit harder and require pattern recognition to beat without taking critical damage." }
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page — Stickman loads instantly in your browser. No installation, no account creation, no waiting."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Enemy",
+        "desc": "Watch how enemies move and attack before committing. Each enemy type has a tell — spotting it early is the difference between a clean combo and taking damage."
+      },
+      {
+        "icon": "refresh",
+        "title": "Master the Combos",
+        "desc": "Chain basic attacks into combo sequences for higher damage output. The combo system rewards timing: hit the follow-up just as the first strike lands."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Use Power-Ups Wisely",
+        "desc": "Power-ups spawn mid-stage but disappear quickly. Save high-value pickups for moments when multiple enemies converge rather than using them the instant they appear."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Clear the Wave",
+        "desc": "Defeat every enemy in the wave to advance. Boss encounters appear at set milestones — they hit harder and require pattern recognition to beat without taking critical damage."
+      }
     ],
     "categories": [
-      { "name": "Recruit",    "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
-      { "name": "Soldier",    "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
-      { "name": "Veteran",    "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
-      { "name": "Elite",      "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
-      { "name": "Legendary",  "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+      {
+        "name": "Recruit",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Soldier",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Veteran",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Elite",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Legendary",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
     ],
     "features": [
-      { "icon": "bolt",   "title": "Instant Combat",            "desc": "No loading screens between fights. Click Play and you are in the action within seconds — straight from your browser." },
-      { "icon": "target", "title": "Wave-Based Progression",    "desc": "30+ combat levels with escalating enemy types and boss encounters at key milestones. Each wave adds a new mechanic or enemy variant to keep the challenge fresh." },
-      { "icon": "device", "title": "Works on Any Device",       "desc": "Fully playable on desktop with keyboard controls and on mobile with tap inputs. Responsive layout adjusts to any screen size automatically." },
-      { "icon": "image",  "title": "Fluid Stick Animation",     "desc": "Clean, high-contrast stick-figure animation makes every combo and hit reaction readable at a glance — even during the most intense multi-enemy encounters." },
-      { "icon": "shield", "title": "Safe for All Ages",         "desc": "Stickman contains no graphic violence or adult content. There are no ads targeting children, no in-app purchases, and no account data collection." },
-      { "icon": "music",  "title": "Dynamic Combat Audio",      "desc": "Punchy sound effects for each attack type and a driving background track that intensifies during boss phases. Audio enhances reaction timing without becoming distracting." }
+      {
+        "icon": "bolt",
+        "title": "Instant Combat",
+        "desc": "No loading screens between fights. Click Play and you are in the action within seconds — straight from your browser."
+      },
+      {
+        "icon": "target",
+        "title": "Wave-Based Progression",
+        "desc": "30+ combat levels with escalating enemy types and boss encounters at key milestones. Each wave adds a new mechanic or enemy variant to keep the challenge fresh."
+      },
+      {
+        "icon": "device",
+        "title": "Works on Any Device",
+        "desc": "Fully playable on desktop with keyboard controls and on mobile with tap inputs. Responsive layout adjusts to any screen size automatically."
+      },
+      {
+        "icon": "image",
+        "title": "Fluid Stick Animation",
+        "desc": "Clean, high-contrast stick-figure animation makes every combo and hit reaction readable at a glance — even during the most intense multi-enemy encounters."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe for All Ages",
+        "desc": "Stickman contains no graphic violence or adult content. There are no ads targeting children, no in-app purchases, and no account data collection."
+      },
+      {
+        "icon": "music",
+        "title": "Dynamic Combat Audio",
+        "desc": "Punchy sound effects for each attack type and a driving background track that intensifies during boss phases. Audio enhances reaction timing without becoming distracting."
+      }
     ],
     "faq": [
-      { "q": "What is Stickman?",             "a": "Stickman is a free browser-based action game where you control a stick figure fighting through waves of enemies using combos, dodges, and power-ups. No download or account is required." },
-      { "q": "Is Stickman free?",             "a": "Yes, completely free. Every level is accessible from the start with no paywalls, premium tiers, or in-app purchases of any kind." },
-      { "q": "Does Stickman work on mobile?", "a": "Yes. The game is fully responsive and supports both tap controls on touchscreens and keyboard controls on desktop. It runs in any modern mobile browser without installation." },
-      { "q": "How many levels are there?",    "a": "There are over 30 combat levels, progressing from basic enemy encounters at Recruit difficulty to intense multi-boss stages at Legendary tier." },
-      { "q": "Is Stickman safe for kids?",    "a": "Yes. The game uses stylised stick-figure combat with no graphic violence or inappropriate content. No personal data is collected and no targeted advertising is shown." },
-      { "q": "Do I need an account?",         "a": "No account is needed. Open the Play page and start fighting immediately — no registration, email, or login of any kind." }
+      {
+        "q": "What is Stickman?",
+        "a": "Stickman is a free browser-based action game where you control a stick figure fighting through waves of enemies using combos, dodges, and power-ups. No download or account is required."
+      },
+      {
+        "q": "Is Stickman free?",
+        "a": "Yes, completely free. Every level is accessible from the start with no paywalls, premium tiers, or in-app purchases of any kind."
+      },
+      {
+        "q": "Does Stickman work on mobile?",
+        "a": "Yes. The game is fully responsive and supports both tap controls on touchscreens and keyboard controls on desktop. It runs in any modern mobile browser without installation."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "There are over 30 combat levels, progressing from basic enemy encounters at Recruit difficulty to intense multi-boss stages at Legendary tier."
+      },
+      {
+        "q": "Is Stickman safe for kids?",
+        "a": "Yes. The game uses stylised stick-figure combat with no graphic violence or inappropriate content. No personal data is collected and no targeted advertising is shown."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is needed. Open the Play page and start fighting immediately — no registration, email, or login of any kind."
+      }
     ],
     "cta": {
       "headline": "Ready to fight?",
       "subtext": "Open Stickman now — no download, no sign-up, just pure action."
     }
   },
-
   "playPage": {
     "howItWorksSubtitle": "Chain attack combos and time your dodges to defeat every enemy wave.",
     "steps": [
-      { "title": "Choose Your Difficulty",  "desc": "Select a starting level from Recruit (beginner-friendly) to Legendary (max challenge). Each tier introduces faster enemies and new attack patterns that require sharper reaction times." },
-      { "title": "Fight the Wave",           "desc": "Use attack inputs to launch combos against incoming enemies. Each combo chain builds a score multiplier — the longer the chain, the higher your damage output and end-level score." },
-      { "title": "Survive the Boss",         "desc": "Boss encounters appear at key stage milestones. They are tougher, faster, and require pattern recognition. Study their attack cycle for two or three hits before committing to an aggressive combo." }
+      {
+        "title": "Choose Your Difficulty",
+        "desc": "Select a starting level from Recruit (beginner-friendly) to Legendary (max challenge). Each tier introduces faster enemies and new attack patterns that require sharper reaction times."
+      },
+      {
+        "title": "Fight the Wave",
+        "desc": "Use attack inputs to launch combos against incoming enemies. Each combo chain builds a score multiplier — the longer the chain, the higher your damage output and end-level score."
+      },
+      {
+        "title": "Survive the Boss",
+        "desc": "Boss encounters appear at key stage milestones. They are tougher, faster, and require pattern recognition. Study their attack cycle for two or three hits before committing to an aggressive combo."
+      }
     ]
   },
-
   "faqPage": {
     "items": [
-      { "q": "Is Stickman really free?",         "a": "Yes, entirely free. There are no subscription fees, premium level packs, or purchases of any kind. Every stage and game mode is available from the moment you open the page." },
-      { "q": "What devices can I play on?",       "a": "Stickman runs in any modern browser — Chrome, Safari, Firefox, Edge — on desktop, tablet, and mobile. No app download required. Touch and keyboard inputs are both supported." },
-      { "q": "How does the game work?",           "a": "You control a stick figure using attack and movement inputs. Chain hits into combos, dodge incoming attacks, collect power-ups, and defeat all enemies in each wave to progress to the next level." },
-      { "q": "How many levels are there?",        "a": "There are over 30 levels organised into five difficulty tiers: Recruit, Soldier, Veteran, Elite, and Legendary. Boss encounters mark the end of each tier." },
-      { "q": "Can I play offline?",               "a": "Once the game has loaded in your browser, it continues to run if your connection drops. An initial internet connection is required to load the page for the first time." },
-      { "q": "Is my progress saved?",             "a": "Progress is stored in your browser's local storage. As long as you use the same browser and device, completed levels will remain unlocked between sessions." },
-      { "q": "Is Stickman safe for children?",    "a": "Yes. The game uses stylised stick-figure combat without graphic content. There are no chat features, no ads targeting children, and no collection of personal information." },
-      { "q": "Do I need to create an account?",   "a": "No. There is no registration or login of any kind. Open stickman.fr and start playing straight away." }
+      {
+        "q": "Is Stickman really free?",
+        "a": "Yes, entirely free. There are no subscription fees, premium level packs, or purchases of any kind. Every stage and game mode is available from the moment you open the page."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Stickman runs in any modern browser — Chrome, Safari, Firefox, Edge — on desktop, tablet, and mobile. No app download required. Touch and keyboard inputs are both supported."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "You control a stick figure using attack and movement inputs. Chain hits into combos, dodge incoming attacks, collect power-ups, and defeat all enemies in each wave to progress to the next level."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "There are over 30 levels organised into five difficulty tiers: Recruit, Soldier, Veteran, Elite, and Legendary. Boss encounters mark the end of each tier."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Once the game has loaded in your browser, it continues to run if your connection drops. An initial internet connection is required to load the page for the first time."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress is stored in your browser's local storage. As long as you use the same browser and device, completed levels will remain unlocked between sessions."
+      },
+      {
+        "q": "Is Stickman safe for children?",
+        "a": "Yes. The game uses stylised stick-figure combat without graphic content. There are no chat features, no ads targeting children, and no collection of personal information."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No. There is no registration or login of any kind. Open stickman.fr and start playing straight away."
+      }
     ]
   },
-
   "howToPlayPage": {
     "intro": "Stickman is built around fast, readable combat: attack, dodge, combo. Understanding how the chain system works — and when to use power-ups — is the difference between breezing through levels and being overwhelmed by the later enemy waves.",
     "steps": [
-      { "title": "Learn the Attack Chain",  "desc": "Each attack input triggers the first hit in a combo chain. Land the follow-up input within the timing window to extend the chain. A three-hit combo deals roughly double the damage of three individual attacks and fills the score multiplier faster." },
-      { "title": "Dodge Before You Strike", "desc": "Every enemy has a pre-attack animation — a brief wind-up before their hit lands. Dodging during this window triggers an invincibility frame that lets you counter immediately. Reacting to wind-ups rather than the hit itself is the core skill of the game." },
-      { "title": "Pick Up Power-Ups Fast",   "desc": "Power-ups appear mid-stage for a limited time. Speed boosts, damage multipliers, and health restores each have different strategic value. Prioritise health restores only when your health is critically low; in all other situations, the damage multiplier offers the highest return." }
+      {
+        "title": "Learn the Attack Chain",
+        "desc": "Each attack input triggers the first hit in a combo chain. Land the follow-up input within the timing window to extend the chain. A three-hit combo deals roughly double the damage of three individual attacks and fills the score multiplier faster."
+      },
+      {
+        "title": "Dodge Before You Strike",
+        "desc": "Every enemy has a pre-attack animation — a brief wind-up before their hit lands. Dodging during this window triggers an invincibility frame that lets you counter immediately. Reacting to wind-ups rather than the hit itself is the core skill of the game."
+      },
+      {
+        "title": "Pick Up Power-Ups Fast",
+        "desc": "Power-ups appear mid-stage for a limited time. Speed boosts, damage multipliers, and health restores each have different strategic value. Prioritise health restores only when your health is critically low; in all other situations, the damage multiplier offers the highest return."
+      }
     ],
     "mechanic": {
       "title": "The Combo Chain System",
@@ -102,14 +251,28 @@
     },
     "difficultyProgression": "Recruit levels introduce single enemy types with slow, predictable attack patterns. Soldier levels add a second enemy type that flanks from the opposite direction, forcing attention splits. Veteran levels introduce shielded enemies that require a specific combo sequence to break through before normal attacks deal damage. Elite levels combine all previous enemy types in the same wave, requiring rapid target switching. Legendary levels feature boss variants of every enemy type alongside standard waves, with reduced power-up spawn rates.",
     "tips": [
-      { "title": "Target the Flanks First",    "desc": "When multiple enemies approach from different directions, attack the ones on your flanks before focusing on the enemy directly ahead. Flank enemies reach you first if ignored, and a hit from the side interrupts your combo chain. Clearing the flanks buys space and time to deal with the main threat." },
-      { "title": "Break Shields Immediately",  "desc": "Shielded enemies in Veteran difficulty and above absorb all standard attacks until the shield is broken with the correct combo. Do not waste normal attacks on a shielded enemy — they deal zero damage and waste your combo window. Identify shielded enemies as soon as the wave starts and prioritise the break combo." },
-      { "title": "Save the Multiplier Pickup", "desc": "The damage multiplier power-up is the most valuable item on the field. Collecting it during a long combo chain stacks both effects simultaneously, producing enormous burst damage. Try to wait until you have a three-hit chain going before grabbing it, rather than picking it up the moment it appears." },
-      { "title": "Study the Boss Pattern",     "desc": "Every boss follows a fixed three-phase attack cycle. In phase one, they use slow single strikes. In phase two, they introduce a charged attack with a longer wind-up. Phase three activates a multi-hit flurry. Survive the first cycle passively and learn the pattern before committing to aggressive combo play." },
-      { "title": "Replay Earlier Levels",      "desc": "Stickman's score multiplier system rewards replaying completed levels. A perfect run — no damage taken, full combo chains — unlocks a bonus score that counts toward tier progression. Returning to Recruit and Soldier levels with full mastery of the combo system is the fastest route to unlocking Elite and Legendary content." }
+      {
+        "title": "Target the Flanks First",
+        "desc": "When multiple enemies approach from different directions, attack the ones on your flanks before focusing on the enemy directly ahead. Flank enemies reach you first if ignored, and a hit from the side interrupts your combo chain. Clearing the flanks buys space and time to deal with the main threat."
+      },
+      {
+        "title": "Break Shields Immediately",
+        "desc": "Shielded enemies in Veteran difficulty and above absorb all standard attacks until the shield is broken with the correct combo. Do not waste normal attacks on a shielded enemy — they deal zero damage and waste your combo window. Identify shielded enemies as soon as the wave starts and prioritise the break combo."
+      },
+      {
+        "title": "Save the Multiplier Pickup",
+        "desc": "The damage multiplier power-up is the most valuable item on the field. Collecting it during a long combo chain stacks both effects simultaneously, producing enormous burst damage. Try to wait until you have a three-hit chain going before grabbing it, rather than picking it up the moment it appears."
+      },
+      {
+        "title": "Study the Boss Pattern",
+        "desc": "Every boss follows a fixed three-phase attack cycle. In phase one, they use slow single strikes. In phase two, they introduce a charged attack with a longer wind-up. Phase three activates a multi-hit flurry. Survive the first cycle passively and learn the pattern before committing to aggressive combo play."
+      },
+      {
+        "title": "Replay Earlier Levels",
+        "desc": "Stickman's score multiplier system rewards replaying completed levels. A perfect run — no damage taken, full combo chains — unlocks a bonus score that counts toward tier progression. Returning to Recruit and Soldier levels with full mastery of the combo system is the fastest route to unlocking Elite and Legendary content."
+      }
     ]
   },
-
   "blog": {
     "headline": "Guides &amp; Strategy",
     "subheading": "Combat tips, combo guides, and action-game science for Stickman players.",
@@ -305,6 +468,229 @@
             "paragraphs": [
               "Stickman does not collect personal information from any user, including children under 13. There is no registration, no email address required, and no tracking of individual players beyond anonymous session data stored locally in the browser. No information is transmitted to any server or third party.",
               "The game is compliant with children's online privacy principles by design — there is simply no personal data to collect consent for. Parents do not need to complete any consent process or create any account on behalf of their child. The entire experience is self-contained within the browser session."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "complete-combat-guide",
+        "title": "Stickman Complete Combat Guide: How to Master Every Fight, Combo, and Boss Encounter",
+        "excerpt": "Everything you need to survive and dominate in Stickman — core controls, the full combo system, enemy pattern reading, boss strategies, and how to manage power-ups across 30+ levels.",
+        "category": "Guide",
+        "readTime": "10 min read",
+        "date": "2026-04-01",
+        "icon": "⚔️",
+        "sections": [
+          {
+            "heading": "What Is Stickman? Fast-Paced Browser Action Explained",
+            "paragraphs": [
+              "Stickman is a browser-based action game where you control a stick-figure fighter through escalating waves of enemies. The premise sounds simple, but the combat system has genuine depth — a combo architecture that rewards timing and precision, enemies with distinct attack patterns that require different tactical responses, and boss encounters that demand pattern recognition and smart resource management.",
+              "The game runs entirely in your browser without any installation required. This accessibility is part of its appeal: you can be in the middle of a fight within fifteen seconds of opening the page, and the controls are straightforward enough to learn in the first few minutes of play. But easy to learn does not mean easy to master, and that gap between the two is what makes Stickman engaging across thirty or more levels.",
+              "The visual style is deliberately minimal — you are a stick figure, your enemies are stick figures, and the environments are clean and uncluttered. This minimalism is a design strength rather than a limitation. It keeps the screen readable at all times, so you are never confused about what is happening or where threats are coming from. In a game built on fast reactions and pattern reading, visual clarity is everything.",
+              "What distinguishes Stickman from simpler browser action games is the intentional design behind enemy behavior and level progression. Each new stage introduces something new — a faster enemy, a new attack pattern, a group composition that requires crowd control rather than single-target focus. The game teaches you steadily rather than throwing everything at you at once."
+            ]
+          },
+          {
+            "heading": "Core Controls: Movement, Attack, and Dodge",
+            "paragraphs": [
+              "The control scheme in Stickman is deliberately minimal to keep the learning curve accessible. Movement is handled with directional inputs; attacks are triggered with the action button or key; dodging requires a directional input combined with a specific timing window before an enemy attack lands. Mastering just these three elements covers around eighty percent of what you need to succeed in the early and mid-game levels.",
+              "What makes these simple controls deep is the interaction between them. Pure attack without dodge creates constant exposure to damage. Pure dodge without attack creates a stalemate where enemies keep coming. The game rewards players who can fluidly chain movement into attacks and retreat before enemies counter-attack, creating a rhythm of engagement and disengagement that becomes almost choreographic at higher skill levels.",
+              "The aerial component adds a vertical dimension that changes defensive and offensive calculations significantly. Enemies that follow predictable patterns on the ground level are often more vulnerable to attacks from above, and jumping over certain attack types is the most efficient avoidance available. Learn which enemies respond to aerial attacks and which require ground-level engagement early in your playthrough.",
+              "One underappreciated aspect of the controls is movement between attacks. Standing still while attacking makes you a stationary target. The strongest players are constantly in motion — attacking, stepping back, repositioning, attacking again — never staying in one place long enough for multiple enemies to converge on their location simultaneously."
+            ]
+          },
+          {
+            "heading": "The Combo System: From Basic Attacks to Devastating Chains",
+            "paragraphs": [
+              "Stickman's combo system is the heart of its combat depth. Basic attacks deal consistent damage, but combo attacks — sequences of inputs executed in specific patterns with correct timing — deal significantly more damage per time invested, often with area effects that hit multiple enemies simultaneously.",
+              "Learning combos requires understanding two things: the input sequence and the timing windows. The input sequence is what buttons or directional inputs to press in what order. The timing window is how quickly you need to press each follow-up input to continue the chain. Miss the window and the combo breaks, resetting you to a single hit rather than the full sequence.",
+              "The reward for landing full combo chains is not just damage — it is the stagger effect. Mid-combo, many enemies enter a brief stagger state that prevents them from counter-attacking while the combo is landing. This is the secret to surviving group encounters: land a combo on one enemy and the stagger effect buys you time to finish it and move to the next target before either has a chance to hit back.",
+              "Different combo sequences have different properties. Some extend horizontally and hit enemies in a line. Others have a knockback effect that creates distance between you and the enemy. Some are fast with lower damage, useful against quick enemies who close the timing window before a slower combo can complete. Learning which combo to use in which situation is the core skill of mid-game and late-game Stickman play.",
+              "Practice combos intentionally in early levels where the enemy pressure is low. When you are fighting a single slow enemy, use it as an opportunity to drill a specific combo sequence until the inputs are automatic. The early levels are the ideal training ground precisely because they give you space to experiment without punishing every mistake."
+            ]
+          },
+          {
+            "heading": "Reading Your Enemies: Pattern Recognition in Combat",
+            "paragraphs": [
+              "Every enemy type in Stickman has a tell — a visual or behavioral cue that precedes its attack. Learning these tells is the most important skill in the game. A player who can read enemy patterns can effectively avoid most incoming damage; a player who cannot will get hit repeatedly by attacks that were always telegraphed before they landed.",
+              "The basic enemy tell is a brief pause or windup animation before the attack. This is your window to dodge. The windup gives you a fraction of a second to move out of the attack path. More advanced enemies have subtler tells — a slight shift in stance, a change in movement speed, or a specific positioning relative to you that indicates they are about to commit to an attack. Time spent in the early levels specifically looking for these tells pays enormous dividends in every later stage.",
+              "Enemy attack patterns also have phases. Most enemies cycle through a limited set of behaviors: approach, attack, recover. The recovery phase after an attack is your best window to land damage safely. You do not need to dodge everything — sometimes the most efficient approach is letting an enemy complete its attack and then immediately counter-attacking during its recovery window, rather than spending moves on aggressive dodging.",
+              "New enemies introduced in later levels do not require you to relearn everything from scratch — they require you to extend your existing pattern recognition to a new set of behaviors. Approach each new enemy type as a learning problem: in your first encounter, prioritise observation over damage output. A little patience in the first thirty seconds of a new enemy encounter pays off for every subsequent fight against that type."
+            ]
+          },
+          {
+            "heading": "Boss Encounters: Strategies for the Toughest Fights",
+            "paragraphs": [
+              "Boss enemies in Stickman are qualitatively different from regular enemies — they have significantly more health, hit harder, and have attack patterns that include multiple phases. A boss fight that seemed manageable in phase one can become considerably more dangerous when phase two introduces a new attack type or increases movement speed.",
+              "The key to boss fights is aggressive information gathering in phase one. Before you have identified all of the boss's attack patterns, play conservatively: dodge more than you attack, stay at mid-range, and treat every attack as an opportunity to observe the boss's response behavior. What does it do after you land a hit? How does it transition between attacks? What is the tell for each attack type? This first-phase observation is investment, not caution.",
+              "Once you have gathered this information — usually within the first two or three minutes of a boss encounter — you can shift to a more aggressive strategy. Most bosses have exploitable patterns: a specific attack that leaves them highly exposed, a positioning quirk that makes certain combos reliably connect, or an ordering to their phase transitions that you can time a high-damage combo to hit.",
+              "Health management is critical in boss fights in a way it is not in regular wave encounters. The boss has enough health that the fight will last several minutes, and every hit you take accumulates. Prioritise clean dodging in phases where the boss is difficult to read, and save aggressive combo play for phases where the patterns are clear and the windows are wide."
+            ]
+          },
+          {
+            "heading": "Power-Up Management: Making Pickups Count",
+            "paragraphs": [
+              "Power-ups in Stickman appear mid-stage as glowing items on the floor of the combat arena. They disappear after a short time, so there is urgency in collecting them — but there is also a strategic argument for not collecting them the moment they appear.",
+              "The trap many players fall into is grabbing every power-up the instant it appears, even when they are currently healthy and enemies are clustered away from the item. This leads to wasting high-value power-ups on trivial situations where basic attacks would have been sufficient. Instead, note where the power-up is, continue fighting, and collect it when it would have maximum impact.",
+              "Health restoration power-ups are most valuable when you have taken significant damage. Using one at full health wastes most of its value. Damage-amplification power-ups are most valuable when you are about to engage multiple enemies simultaneously — a moment when the extra damage output can convert what would be a grinding attrition fight into a fast, efficient clear.",
+              "Not every power-up is worth the risk to collect. If collecting a power-up would require you to move through a group of enemies in a dangerous position, calculate whether the benefit justifies the risk. Sometimes a power-up expires uncollected because reaching it safely was not possible — that is a legitimate outcome, not a mistake."
+            ]
+          },
+          {
+            "heading": "Progressing Through the Levels: What to Expect and How to Adapt",
+            "paragraphs": [
+              "Stickman's level progression introduces new elements gradually, but there are specific jumps in difficulty that catch players off guard. The transition from the first boss to the levels immediately following it is one such jump — the regular enemies after the boss are typically harder than those before it, requiring you to apply what the boss fight taught you to standard combat situations.",
+              "Levels in the mid-game roughly stages 10 through 20, introduce enemy groupings that require crowd-control thinking rather than focused single-target combat. Combos that generate area effects become essential; trying to fight enemies one at a time in a group encounter usually leads to damage accumulation that becomes unsustainable within a few waves.",
+              "The late game from stage 20 onward assumes mastery of everything the game has taught. Enemy patterns are more complex, group compositions are more dangerous, and boss fights introduce phase transitions that require pattern adaptation mid-fight. The foundation of everything in the late game is the skill built in the early levels. Players who worked through the early stages deliberately rather than rushing through them find the late game substantially more manageable.",
+              "Accept that each difficulty jump will require a period of adjustment. The first few attempts at a significantly harder stage are data collection: you are learning what the new enemies do, what compositions appear in this stage, and where the stage's specific danger points are. This adjustment period is normal and expected — it is the game asking you to apply your existing skills in a new context."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "advanced-combat-strategies",
+        "title": "Advanced Stickman Strategies: Combat Techniques That Separate Good Players from Great Ones",
+        "excerpt": "Beyond the basics, Stickman rewards players who develop precision timing, crowd control discipline, and the mental game of staying composed under pressure. This guide covers the techniques that matter most.",
+        "category": "Strategy",
+        "readTime": "9 min read",
+        "date": "2026-04-05",
+        "icon": "🎯",
+        "sections": [
+          {
+            "heading": "The Gap Between Surviving and Dominating",
+            "paragraphs": [
+              "There is a clear dividing line in Stickman between players who survive levels with their health nearly depleted and players who clear the same levels cleanly, taking minimal damage. The difference is not reaction speed — it is anticipation. Strong players are not reacting to attacks as they happen; they are seeing the attack coming two to three seconds before it does and positioning accordingly.",
+              "This shift from reaction to anticipation is the single most important improvement a player can make. Reaction-based play puts you perpetually on the back foot: dodging damage that is already partway through its animation, unable to plan your next attack because you are focused entirely on the incoming threat. Anticipation-based play lets you dodge and already be in position for your counter-attack by the time the enemy's animation completes.",
+              "Developing anticipation requires intentional study of enemy patterns during lower-stakes moments in the game. Spend the early levels of each new section not trying to win efficiently, but specifically trying to read enemies before they attack. Watch for the tell, predict the attack type, and dodge in the right direction before the animation starts. This practice investment pays off dramatically in harder stages.",
+              "The clearest indicator that you have made the shift from reaction to anticipation is when dodging stops feeling urgent. Reactive dodgers feel the pressure of incoming attacks constantly. Anticipatory players experience combat as a series of predicted events they are simply responding to in advance. The game feels slower, more manageable, and more under your control."
+            ]
+          },
+          {
+            "heading": "Precision Timing: The Margin That Separates Good Players",
+            "paragraphs": [
+              "Precision timing in Stickman applies to both offense and defense. Defensively, the difference between dodging at the correct frame and dodging a frame early is the difference between the attack missing entirely and the attack clipping you for partial damage. Offensively, the difference between landing a full combo and a broken combo is the timing window for each follow-up hit.",
+              "The way to improve timing is counterintuitive: deliberately slow down during practice. In early practice sessions on timing-critical sequences, consciously reduce your pace and focus on the timing rather than the outcome. Let yourself take damage while learning the exact moment to dodge. Break combos on purpose to feel where the window is. Build the timing into your muscle memory rather than trying to think your way through it in real time.",
+              "Once the timing is in muscle memory, speed follows naturally. You will find yourself hitting dodge at exactly the right moment without consciously counting frames, and landing combo follow-ups precisely on the beat without deliberate effort. This is the state you are aiming for — where execution becomes automatic and all your conscious attention can go to reading the next threat and planning the next sequence.",
+              "A practical drill for improving timing: choose a single enemy you know well and practice one specific dodge-counter sequence against it until it feels effortless. Do not move on to a new sequence until the first one is automatic. Building a repertoire of five or six automatic sequences serves you better than having a vague familiarity with twenty."
+            ]
+          },
+          {
+            "heading": "Crowd Control: Managing Multiple Enemies Without Getting Overwhelmed",
+            "paragraphs": [
+              "The most dangerous situations in Stickman are not one-on-one fights — they are multi-enemy encounters where attacks can come from multiple angles simultaneously. Managing these situations requires a different mindset than the focused, patient approach that works well against individual enemies.",
+              "The core crowd-control principle is never let enemies spread out to surround you. A group of three enemies all positioned in front of you is manageable; those same three enemies distributed around you is much harder. Use movement to keep enemies clustered together — running away from flankers forces them to catch up and re-cluster — before engaging the group.",
+              "Area-effect combos and power-ups exist specifically for these moments. When enemies are grouped together, a single area combo can stagger all of them simultaneously, buying you several seconds of safe attack time. This is the primary use case for your strongest area attacks: not against single powerful enemies, but against multiple weaker enemies that would otherwise overwhelm you through sheer volume of incoming attacks.",
+              "Prioritisation matters in crowd fights too. Identify the most dangerous enemy in a group — typically the one with the fastest attack speed or the longest range — and focus on eliminating it first. Taking the highest-pressure enemy out of the equation transforms a chaotic multi-target situation into a series of more manageable individual encounters."
+            ]
+          },
+          {
+            "heading": "Mastering the Dodge: Technique, Timing, and Direction",
+            "paragraphs": [
+              "The dodge in Stickman is not simply pressing a dodge button when an attack comes. The direction you dodge matters as much as the timing, and strong players dodge to specific positions rather than just away from the immediate threat.",
+              "When dodging a melee attack, the optimal dodge is usually perpendicular to the attack direction — sideways rather than backward. Dodging backward maintains distance but puts you far from the enemy, removing your opportunity to counter-attack in the recovery window. Dodging sideways keeps you within counter-attack range while still avoiding the hit. This is the foundation of efficient combat: dodge to a position that immediately enables counter-attack, not just away from damage.",
+              "When dodging a ranged attack, the opposite consideration often applies. Dodging backward or to a wide angle avoids the projectile while maintaining visual access to see what the enemy does next. Dodging sideways against ranged attacks requires more precision on the timing because you are moving parallel to the projectile path rather than entirely out of it.",
+              "Dodge direction also communicates information to multiple-enemy groups. Dodging toward one enemy while evading another's attack repositions you to engage the nearer one immediately. Deliberate use of dodge direction as a positioning tool — not just an avoidance mechanism — is the hallmark of advanced Stickman play."
+            ]
+          },
+          {
+            "heading": "Knowing Your Enemies: A Field Guide to Enemy Types",
+            "paragraphs": [
+              "Stickman's enemy roster follows a design logic: each new enemy type is specifically intended to challenge a skill you have already learned. Understanding this logic helps you approach new enemy encounters systematically rather than randomly.",
+              "Fast-moving enemies challenge your reaction timing and dodge precision. Their attacks typically deal moderate damage because their speed is their primary threat. The counter is to maintain more distance and dodge earlier in the attack animation than you would against slower enemies. Speed enemies punish players who wait too long to initiate their dodge.",
+              "Heavy enemies challenge your positioning and patience. They move slowly and hit hard, with large amounts of health. The counter is to attack when their recovery windows open after their own swings — never in the middle of their attack animation. Attacking a heavy enemy mid-swing often results in trading health inefficiently, which is exactly what they want.",
+              "Ranged enemies challenge your spatial awareness and ability to close distance safely. The counter is to use cover if available, dodge projectiles while advancing, and switch to aggressive melee as soon as you are in range. Lingering at mid-range while trying to dodge projectiles is a losing proposition — commit to closing the distance and end the ranged exchange quickly.",
+              "Group compositions are themselves a form of enemy design. Two enemy types that are individually manageable can become significantly more difficult when combined. A heavy enemy that demands your close attention paired with a ranged enemy that punishes you for staying close is a combination designed to create impossible tradeoffs. Solve the composition problem, not just the individual enemy problem."
+            ]
+          },
+          {
+            "heading": "Combat Efficiency: Getting More Done with Fewer Actions",
+            "paragraphs": [
+              "Advanced Stickman play is partly about minimising the resources — actions, health, time — required to defeat each wave. This efficiency matters in the late game where damage accumulated across multiple waves becomes survival-critical and there are fewer opportunities to recover.",
+              "The primary efficiency driver is attack selection. A three-hit combo that deals high damage per hit but takes four seconds to complete is sometimes inferior to a faster five-hit combo, because the faster combo generates more damage per second and leaves you exposed for less time. Learn which of your attacks have the best damage-to-time ratio and build your combat patterns around those as the backbone.",
+              "Position efficiency is equally important. Every step you take that does not contribute to your tactical situation is a step that could have been an attack or a dodge. Strong players move with purpose — every movement either closes to attack range, opens distance to create a dodge window, or repositions to handle a group composition problem. Random movement, however active it looks, wastes potential.",
+              "Recovery efficiency also matters. After taking damage, the instinct is to back away and play defensively for several seconds. But unless you are at critically low health, extended defensive play just extends the fight and creates more opportunities to take additional damage. The most efficient recovery from a hit is often an immediate counter-attack during the enemy's recovery window."
+            ]
+          },
+          {
+            "heading": "The Mental Game: Staying Composed Under Pressure",
+            "paragraphs": [
+              "Technical skill in Stickman is necessary but not sufficient for sustained high performance. The late levels, particularly boss fights that can run for several minutes, demand a mental consistency that technical skill alone cannot provide.",
+              "The most common mental error is panic after taking unexpected damage. A clean fight that suddenly goes sideways triggers rapid, defensive over-corrections: frantic dodging, hesitation in attacking, conservative positioning that extends the fight. This reactive state compounds the problem — you stop inflicting damage while continuing to take it, and the situation deteriorates further.",
+              "The corrective habit is reorientation rather than panic. When things go wrong, take a deliberate moment — literally one breath — to stop moving, identify what changed, and reset your pattern recognition to the current state of the fight. This brief pause is almost never as costly as continued reactive play, and it allows you to return to the anticipatory mindset rather than staying in a reactive one.",
+              "Composure is a trainable skill, not a fixed personality trait. The way to train it is to deliberately stay in difficult situations rather than restarting when they go wrong. When a fight starts going badly, commit to playing it out rather than resetting. The experience of recovering from a compromised position — or failing to recover and understanding why — builds mental resilience faster than always starting fights fresh from an optimal position."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "history-of-stickman-games",
+        "title": "Why Stickman Games Have Endured for Over 25 Years: The Stick Figure Phenomenon Explained",
+        "excerpt": "From early internet Flash animations to modern browser games, stickman characters have been an enduring icon of online gaming. Here is the story of why they stuck around.",
+        "category": "History",
+        "readTime": "8 min read",
+        "date": "2026-04-10",
+        "icon": "🕹️",
+        "sections": [
+          {
+            "heading": "The Unlikely Icon: How a Simple Drawing Became a Gaming Staple",
+            "paragraphs": [
+              "The stickman — two lines for legs, two for arms, a circle for a head — might be the most simple character design in the history of visual media. Children draw them in notebook margins. Teachers diagram them on whiteboards. And starting in the late 1990s, they became the protagonist of some of the most popular browser games on the internet.",
+              "The story of stickman games tracks almost exactly with the story of internet gaming itself. In the era of dial-up modems and early browsers, game developers needed assets that loaded quickly on slow connections. Stickman designs, requiring almost no texture data and minimal animation frames, were technically ideal for the constraints of the time. What started as a practical choice born of necessity became a recognisable aesthetic identity.",
+              "By the mid-2000s, stickman games were ubiquitous on Flash game portals. Not because developers could not create more detailed characters, but because the stickman aesthetic had developed its own cultural identity: raw, kinetic, unfiltered action where the simplicity of the character kept all attention on the movement and the combat.",
+              "This cultural identity has proven more durable than anyone in 2001 would have predicted. While gaming visuals have become exponentially more sophisticated, stickman games have not disappeared — they have evolved alongside the medium, and new generations of players continue to discover and enjoy the format on its own merits."
+            ]
+          },
+          {
+            "heading": "Why the Minimalist Art Style Actually Works",
+            "paragraphs": [
+              "The counterintuitive strength of stickman games is that the minimal art style enhances rather than diminishes the experience. When a character is a collection of simple lines and circles, the action is readable instantly — your eye never struggles to parse what is happening on screen.",
+              "In more detailed, textured games, complex animations can obscure exactly what is happening at any given moment. Is that a hit connecting or a near-miss? Is that an enemy swing or a neutral movement? With stickmen, every frame communicates exactly what it is doing. The visual language is unambiguous: a swinging arm means attack, a falling figure means knockback, a position change means movement. There is no visual noise to filter.",
+              "This clarity is particularly valuable in fast-paced combat games where reading the action correctly is a core part of the skill. Stickman's minimal design is doing real work in service of gameplay — not merely as an aesthetic choice, but as a functional design decision that makes the game more readable and therefore more fair to skilled players.",
+              "The minimalism also ages remarkably well. Detailed graphical styles become dated as technology advances and audiences develop expectations shaped by newer games. Stickman's deliberately abstract aesthetic sidesteps this problem entirely — the visual style does not age because it never claimed to be realistic in the first place."
+            ]
+          },
+          {
+            "heading": "From Flash to Modern Browsers: How Stickman Games Survived the Transition",
+            "paragraphs": [
+              "The end of Adobe Flash in December 2020 was a genuinely disruptive moment for browser gaming. Thousands of games that had entertained people for two decades became unplayable overnight. For stickman games, which had been so closely associated with the Flash era, this might have been the end.",
+              "But stickman games did not disappear — they evolved. Modern browser games use HTML5 canvas, WebGL, and JavaScript to achieve everything Flash could, and considerably more. The transition brought better performance, native touch support for mobile players, and integration with modern web standards. For stickman games specifically, the core gameplay translated perfectly because it had never depended on graphically demanding assets that would strain new technologies.",
+              "The stickman games available today in browsers represent genuinely superior technical implementations of the classic formula. Smoother animation, better hit detection, more sophisticated AI behavior, and instant loading without plugin dependencies. The aesthetic is familiar; the underlying technology is significantly better than anything the Flash era could offer.",
+              "The transition also forced the best stickman games to compete on gameplay merit rather than on novelty or convenience. The games that survived the move from Flash to modern browsers did so because they were fundamentally well-designed. The result is a curated set of stickman game experiences that are better than most of what existed before the transition."
+            ]
+          },
+          {
+            "heading": "The Cultural Legacy: Stick Figures in Animation and Online Culture",
+            "paragraphs": [
+              "The stickman's cultural footprint extends well beyond games. The stick death animations and fighting videos that circulated on early internet forums established a visual language for action animation that influenced an entire generation of creators. The constraints of the format — minimal design, minimal file size — forced creative solutions that produced surprisingly expressive action sequences.",
+              "Animator vs. Animation, created by Alan Becker, became one of the most viral animation series on the early internet, eventually growing into a long-running YouTube series with hundreds of millions of views. This work demonstrated that the stick figure format could support genuine storytelling and sophisticated action choreography — not in spite of its limitations, but because of how the limitations focused creative energy.",
+              "This cultural background gives stickman games a nostalgic resonance that connects them to a specific, fondly remembered era of internet culture. Players who grew up with Newgrounds and early Flash portals carry a genuine attachment to the format. At the same time, the games stand on their own gameplay merits for players who encounter the format fresh.",
+              "The stickman also carries a democratic appeal. Unlike detailed character designs that belong unmistakably to their specific game, the stickman is recognisable as a universal icon. Everyone knows what a stick figure is; there is no barrier of familiarity to cross before engaging with a stickman game."
+            ]
+          },
+          {
+            "heading": "What Modern Stickman Games Offer That Flash Games Could Not",
+            "paragraphs": [
+              "Despite the nostalgia, modern stickman games are not just recreations of their Flash predecessors — they are improvements. The combat mechanics in contemporary browser stickman games are more refined, with better-designed combo systems, more sophisticated enemy AI, and level designs that reflect decades of accumulated knowledge about what makes action games fun and fair.",
+              "Mobile device support is perhaps the most significant functional change. Flash games were almost exclusively desktop experiences; modern browser games work on any device with a browser. The touch controls for mobile translate the combat mechanics effectively, extending the audience from desktop players to the much larger pool of smartphone users.",
+              "The games are also designed with modern web standards for accessibility and performance. Instant loading, no plugin management, responsive design that adapts to any screen size — none of which were possible in the Flash era. These improvements reduce friction at every point in the experience from discovering the game to actually playing it.",
+              "Performance consistency is another genuine improvement. Flash games were notorious for inconsistent frame rates depending on the player's hardware, which directly impacted the precision timing that stickman combat requires. Modern browser implementations deliver consistent performance across a much wider range of devices, making the timing-based mechanics reliably playable for a broader audience."
+            ]
+          },
+          {
+            "heading": "Why We Still Love Fighting as a Stick Figure",
+            "paragraphs": [
+              "The enduring appeal of stickman combat games comes down to something fundamental: they make the player feel capable in the simplest and most direct way possible. You are a small, simple figure, surrounded by enemies, and through skill and timing you defeat them. There is no complicated build system, no resource management meta-game, no social comparison. Just you, your reflexes, and your ability to read the situation.",
+              "This purity of experience is increasingly rare in modern gaming. Games have become more complex, more demanding of long-term investment, more social and comparative in their reward structures. Stickman games offer the opposite: a self-contained combat experience that begins immediately, ends cleanly, and asks for nothing but your attention for the duration of the session.",
+              "The format also has a healthy relationship with failure. Dying in a stickman game feels appropriately brief — you learn what went wrong, you restart, you apply what you learned. There is no emotional weight attached to losing a character you have invested dozens of hours building, no social embarrassment from a public leaderboard, no grinding required to get back to where you were. Just the pure loop of attempt, failure, improvement.",
+              "For players who grew up with the format, stickman games represent something the gaming industry rarely delivers: familiarity without stagnation. The aesthetic is the same as it was twenty years ago, but the games themselves keep improving. That combination of the recognisable and the genuinely good is a rare thing."
+            ]
+          },
+          {
+            "heading": "Playing Stickman Today: A Modern Classic in Your Browser",
+            "paragraphs": [
+              "Stickman.fr delivers a browser action game that honours the legacy of the form while offering genuinely modern gameplay design. The combat mechanics have the depth to reward skill development, the level structure provides a progression that introduces new challenges at a sensible pace, and the aesthetic maintains the clean visual language that made stickman games readable and satisfying from the beginning.",
+              "Whether you are a player who remembers the Flash era with genuine affection or someone discovering this style of game for the first time, the experience is immediate and genuine. The absence of installation, accounts, and payment removes every barrier between you and the game. Open the page, enter the fight, and experience first-hand why this deceptively simple format has kept players engaged for more than 25 years.",
+              "The stick figure is not going anywhere. As long as there are browsers and players who want a clean, skill-based action experience without friction, stickman games will have an audience. The format has outlasted entire gaming platforms, survived the death of Flash, and continued to find new players with every passing year. That is not a coincidence — it is the mark of a genuinely good idea executed well, consistently, across decades."
             ]
           }
         ]
