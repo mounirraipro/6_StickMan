@@ -3,7 +3,7 @@
   "domain": "stickman.fr",
   "slug": "stickman",
   "genre": "Action",
-  "iframeUrl": "https://html5.gamemonetize.co/sf3xpe2dc1sna0129sqmjlzxj6it1fnt/",
+  "iframeUrl": "/game/index.html",
   "seo": {
     "title": "Stickman – Free Online Action Game | No Download",
     "description": "Play Stickman free online — control a stick-figure fighter through enemy waves. Fast reflexes, real combat. No download, no account. Open and play now.",
@@ -696,5 +696,7 @@
         ]
       }
     ]
-  }
+  },
+  "embedUrl": "https://html5.gamemonetize.co/sf3xpe2dc1sna0129sqmjlzxj6it1fnt/",
+  "embedSource": "GameMonetize - Stick Man"
 }
