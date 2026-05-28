@@ -198,7 +198,8 @@ export default function Home() {
             <span className="lp-kicker">Why players love it</span>
             <h2>Built for the best experience.</h2>
             <p>Every detail crafted to feel smooth, satisfying, and never frustrating.</p>
-          </div>
+        	<p>Updated on the regular V1.1</p>  
+	</div>
 
           <div className="lp-features">
             {homepage.features.map((f, i) => (
