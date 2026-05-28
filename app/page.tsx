@@ -195,7 +195,7 @@ export default function Home() {
       <section className="lp-section lp-section-tinted">
         <div className="container">
           <div className="lp-section-head">
-            <span className="lp-kicker">Why players love it</span>
+            <span className="lp-kicker">Why players love it so much</span>
             <h2>Built for the best experience.</h2>
             <p>Every detail crafted to feel smooth, satisfying, and never frustrating.</p>
         	<p>Updated on the regular V1.1</p>  
